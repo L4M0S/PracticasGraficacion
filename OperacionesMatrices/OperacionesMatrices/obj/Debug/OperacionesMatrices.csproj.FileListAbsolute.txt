@@ -1,0 +1,6 @@
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe.config
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.pdb
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csprojAssemblyReference.cache
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.exe
+C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.pdb

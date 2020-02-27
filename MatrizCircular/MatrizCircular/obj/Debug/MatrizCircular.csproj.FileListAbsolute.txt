@@ -1,0 +1,6 @@
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.exe.config
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.exe
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.pdb
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.csprojAssemblyReference.cache
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.exe
+C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.pdb
