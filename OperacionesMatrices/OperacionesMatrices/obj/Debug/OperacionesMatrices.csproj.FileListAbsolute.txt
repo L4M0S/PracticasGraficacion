@@ -4,3 +4,9 @@ C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\bin\Debug\Op
 C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csprojAssemblyReference.cache
 C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.exe
 C:\Users\lamos\source\repos\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.pdb
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe.config
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.exe
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\bin\Debug\OperacionesMatrices.pdb
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.csprojAssemblyReference.cache
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.exe
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\OperacionesMatrices\OperacionesMatrices\obj\Debug\OperacionesMatrices.pdb

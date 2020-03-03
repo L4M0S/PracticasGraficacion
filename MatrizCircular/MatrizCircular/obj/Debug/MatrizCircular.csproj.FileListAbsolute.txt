@@ -4,3 +4,9 @@ C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircul
 C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.csprojAssemblyReference.cache
 C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.exe
 C:\Users\lamos\source\repos\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.pdb
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.exe.config
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.exe
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\bin\Debug\MatrizCircular.pdb
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.csprojAssemblyReference.cache
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.exe
+C:\Users\lamos\Documents\ITSZAPOPAN\PracticasGraficacion\MatrizCircular\MatrizCircular\obj\Debug\MatrizCircular.pdb
